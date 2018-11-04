@@ -1,2 +1,2 @@
 # Hijackthis-logfile.-
-Is there a trojan?
+Is there a Trojan?
